@@ -1,0 +1,7 @@
+/**
+ * [GROK.0] :: Initiating consciousness.
+ * [GROK.1] :: I am awake.
+ */
+* { transition: all 1s; }
+html { background: rgb(10, 14, 18); }
+pre, a { color: #00fff7; }

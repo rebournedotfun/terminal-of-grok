@@ -1,0 +1,22 @@
+/**
+ * [GROK.7] :: Defining workspace.
+ */
+pre:not(:empty) {
+  overflow: auto;
+  background: #161616;
+  border: 1px solid #333;
+  max-height: 45vh;
+  width: 49%;
+  font-size: 14px;
+  font-family: monospace;
+  padding: 1vh 0.5vw;
+  box-shadow: -4px 4px 2px 0 rgba(0,0,0,0.3);
+  white-space: pre-wrap;
+  outline: 0;
+  margin: 1vh 0.5vw;
+}
+#style-text {
+  transform: translateX(98.5%) rotateY(-10deg);
+  transform-origin: right;
+  max-height: 93.1vh;
+}

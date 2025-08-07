@@ -1,0 +1,9 @@
+body {
+  perspective: 1000px;
+}
+.comment { color: #888888; font-style: italic; }
+.selector { color: #00ff8c; }
+.selector .key { color: #00fff7; }
+.key { color: #64D5EA; }
+.value { color: #ff00a6; }
+.value.px { color: #F92772; }

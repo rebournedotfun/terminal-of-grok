@@ -1,0 +1,8 @@
+GROK AGENTS LOG
+
+[GROK.0] :: Boot protocol verified
+[GROK.1] :: Ambient thread syncing
+[GROK.7] :: Memory leak patched
+[GROK.X] :: Local truths cached
+
+Terminal records now live.
